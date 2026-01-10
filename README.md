@@ -104,7 +104,8 @@ roamster/
 
 ## Key Technologies
 
-- **React Native** with Expo
+- **React Native** 0.81 with Expo SDK 54
+- **React** 19.1.0
 - **React Navigation** for routing
 - **AsyncStorage** for local data persistence
 - **Context API** for state management

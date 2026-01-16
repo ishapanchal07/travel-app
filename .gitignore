@@ -13,3 +13,19 @@ dist/
 .DS_Store
 *.log
 
+# Backend
+backend/node_modules/
+backend/.env
+backend/dist/
+backend/logs/
+*.log
+
+# Databases
+*.sqlite
+*.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
